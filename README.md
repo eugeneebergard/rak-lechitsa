@@ -46,6 +46,6 @@ $ npm run generate
 - Поиск конкретной истории при вводе имени или ключевой фразы в поиск
 - Пагинация
 
-**Авторы:** [Евгений Эбергард](https://github.com/eugeneebergard), [Марина Кузнецова](https://github.com/marinambur), [Максим Никитин](https://github.com/Maxxnikitin)
+**Разработчики:** [Евгений Эбергард](https://github.com/eugeneebergard), [Марина Кузнецова](https://github.com/marinambur), [Максим Никитин](https://github.com/Maxxnikitin)
 
 **При участии:** [Александр Долгих](https://github.com/selwu), [Юлия Ковылина](https://github.com/yuliakovylina)
